@@ -24,13 +24,6 @@
  * This code is distributed under a BSD style license, see the LICENSE
  * file for complete information.
  */
-
-- `iperf_tcp.h`, `iperf_udp.h`에 Doxygen 주석 추가 (파일·함수 설명, 파라미터, 반환값)
-- 실제 구현과 다르던 accept 함수의 기존 반환값 주석 수정
-
-
-<아래는 변경내용>
----------------------------------------
 /**
  * \file   iperf_tcp.h
  * \brief  iperf3 TCP 테스트용 함수 선언
